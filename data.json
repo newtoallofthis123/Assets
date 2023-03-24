@@ -21,7 +21,7 @@
     {
       "id": "4",
       "name": "Also made a updater script",
-      "content": "Editing the content everything was a pain in the json file, so I just made a handy little python script to handle the tasks for me. The script just asks me prompts and when I fill them, it also auto commits and voila, the link appears on my website. I am really proud of this system.",
+      "content": "Edit: I rewrote this because I added markdown support for myself and wanted to test if it is actually working. Editing the content everytime was a pain in the json file, so I added a little python magic and made a simple script that you can find [here](https://github.com/newtoallofthis123/About_next/blob/main/updates.py). Quite happy with the result actually.",
       "date": "2023-03-24 17:46"
     }
   ],
