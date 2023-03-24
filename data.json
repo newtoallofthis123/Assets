@@ -49,6 +49,10 @@
     {
       "slug": "twitter",
       "url": "https://twitter.com/noobscience1"
+    },
+    {
+      "url": "https://youtube.com",
+      "slug": "yt"
     }
   ]
 }
