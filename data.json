@@ -2,41 +2,49 @@
     "updates": [
         {
             "name": "Update 1",
+            "id": "1",
             "url": "http://www.example.com/updates/1",
             "content": "This is the first update. It is a very important update. It is so important that it is the first update."
         },
         {
             "name": "Update 2",
+            "id": "2",
             "url": "http://www.example.com/updates/2",
             "content": "This is the second update. It is a very important update. It is so important that it is the second update."
         },
         {
             "name": "Update 3",
+            "id": "3",
             "url": "http://www.example.com/updates/3",
             "content": "This is the third update. It is a very important update. It is so important that it is the third update."
         },
         {
             "name": "Update 4",
+            "id": "4",
             "url": "http://www.example.com/updates/4",
             "content": "This is the fourth update. It is a very important update. It is so important that it is the fourth update."
         },
         {
             "name": "Update 5",
+            "id": "5",
             "url": "http://www.example.com/updates/5",
             "content": "This is the fifth update. It is a very important update. It is so important that it is the fifth update."
         },
         {
             "name": "Update 6",
+            "id": "6",
             "url": "http://www.example.com/updates/6",
             "content": "This is the sixth update. It is a very important update. It is so important that it is the sixth update."
         },
         {
             "name": "Update 7",
+            "id": "7",
             "url": "http://www.example.com/updates/7",
             "content": "This is the seventh update. It is a very important update. It is so important that it is the seventh update."
         },
         {
             "name": "Update 8",
+            "id": "8",
             "url": "http://www.example.com/updates/8",
             "content": "This is the eighth update. It is a very important update. It is so important that it is the eighth update."
         }
