@@ -1,13 +1,13 @@
 {
     "updates": [
         {
-            "id": 1,
+            "id": "1",
             "name": "Finally got updates working!",
             "content": "I finally got the updates working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
             "date": "2023-03-24 16:10"
         },
         {
-            "id": 2,
+            "id": "2",
             "name": "Looking for ways to improve the updates experience",
             "content": "Yes! This is the page I am wanting to improve. For now, it looks rather bland. I'm going to be adding a lot more content to it, so stay tuned!",
             "date": "2023-03-24 16:15"
