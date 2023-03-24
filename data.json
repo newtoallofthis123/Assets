@@ -1,38 +1,44 @@
 {
-    "updates": [
-        {
-            "id": "1",
-            "name": "Finally got updates working!",
-            "content": "I finally got the updates working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
-            "date": "2023-03-24 16:10"
-        },
-        {
-            "id": "2",
-            "name": "Looking for ways to improve the updates experience",
-            "content": "Yes! This is the page I am wanting to improve. For now, it looks rather bland. I'm going to be adding a lot more content to it, so stay tuned!",
-            "date": "2023-03-24 16:15"
-        },
-        {
-            "id": "3",
-            "name": "Deployed the updates page",
-            "content": "I was initially nervous if the updates page would even work, because I did a lot of weird stuff with the swr library and hosted the .json file on github to avoid paying for database hosting",
-            "date":"2023-03-24 17:24"
-        }
-    ],
-    "links":[
-        {
-            "id": "1",
-            "name": "daily.dev gets 11million seed funding",
-            "content": "Yes! daily.dev, the open source developer news aggregator got 11 million in funding! daily.dev is going to be able to grow even more! congrats to them!",
-            "url": "https://daily.dev/blog/seed-round",
-            "date": "2023-03-24 16:10"
-        },
-        {
-            "id": "2",
-            "name": "My new updates page is live!",
-            "content": "Yes! I finally got the updates page working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
-            "url": "https://new.noobscience.rocks/updates",
-            "date": "2023-03-24 16:15"
-        }
-    ]
+  "updates": [
+    {
+      "id": "1",
+      "name": "Finally got updates working!",
+      "content": "I finally got the updates working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
+      "date": "2023-03-24 16:10"
+    },
+    {
+      "id": "2",
+      "name": "Looking for ways to improve the updates experience",
+      "content": "Yes! This is the page I am wanting to improve. For now, it looks rather bland. I'm going to be adding a lot more content to it, so stay tuned!",
+      "date": "2023-03-24 16:15"
+    },
+    {
+      "id": "3",
+      "name": "Deployed the updates page",
+      "content": "I was initially nervous if the updates page would even work, because I did a lot of weird stuff with the swr library and hosted the .json file on github to avoid paying for database hosting",
+      "date": "2023-03-24 17:24"
+    },
+    {
+      "id": 4,
+      "name": "Also made a updater script",
+      "content": "Enter the content of the update: Editing the content everything was a pain in the json file, so I just made a handy little python script to handle the tasks for me. It also has password protection so it is extra secure. Not really necessary, but really fun regardless.",
+      "date": "2023-03-24 17:43"
+    }
+  ],
+  "links": [
+    {
+      "id": "1",
+      "name": "daily.dev gets 11million seed funding",
+      "content": "Yes! daily.dev, the open source developer news aggregator got 11 million in funding! daily.dev is going to be able to grow even more! congrats to them!",
+      "url": "https://daily.dev/blog/seed-round",
+      "date": "2023-03-24 16:10"
+    },
+    {
+      "id": "2",
+      "name": "My new updates page is live!",
+      "content": "Yes! I finally got the updates page working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
+      "url": "https://new.noobscience.rocks/updates",
+      "date": "2023-03-24 16:15"
+    }
+  ]
 }
