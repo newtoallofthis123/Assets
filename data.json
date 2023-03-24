@@ -26,9 +26,9 @@
     },
     {
       "id": "5",
-      "name": "Finally have working updates",
-      "content": "This is so cool and awesome.\n[hello](https://yt.be).\nYouTube.\n## This is cool",
-      "date": "2023-03-24 21:57"
+      "name": "Markdown in updates",
+      "content": "Yes! I finally have markdown in the updates. I use a library called [marked.js](https://marked.js.org). It parsed markdown.\nand converts it into HTML. So, now, with the power of markdown I can use links and also embed images all in a json file..\nSo at this point, is it really a json file or a full on database?",
+      "date": "2023-03-24 22:21"
     }
   ],
   "links": [
