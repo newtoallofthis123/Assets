@@ -23,6 +23,12 @@
       "name": "Also made a updater script",
       "content": "Edit: I rewrote this because I added markdown support for myself and wanted to test if it is actually working. Editing the content everytime was a pain in the json file, so I added a little python magic and made a simple script that you can find [here](https://github.com/newtoallofthis123/About_next/blob/main/updates.py). Quite happy with the result actually.",
       "date": "2023-03-24 17:46"
+    },
+    {
+      "id": "5",
+      "name": "Finally have working updates",
+      "content": "## Yes\\nThis is so cool and awesome",
+      "date": "2023-03-24 21:57"
     }
   ],
   "links": [
