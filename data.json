@@ -40,5 +40,15 @@
       "url": "https://new.noobscience.rocks/updates",
       "date": "2023-03-24 16:15"
     }
+  ],
+  "go": [
+    {
+      "slug": "github",
+      "url": "https://github.com/newtoallofthis123"
+    },
+    {
+      "slug": "twitter",
+      "url": "https://twitter.com/noobscience1"
+    }
   ]
 }
