@@ -15,44 +15,18 @@
     ],
     "links":[
         {
-            "name": "Link 1",
-            "content": "First Link",
-            "url": "http://www.example.com/links/1"
+            "name": "daily.dev gets 11million seed funding",
+            "content": "Yes! daily.dev, the open source developer news aggregator got 11 million in funding! daily.dev is going to be able to grow even more! congrats to them!",
+            "url": "https://daily.dev/blog/seed-round",
+            "date": "2023-03-24 16:10",
+            "visits": 0
         },
         {
-            "name": "Link 2",
-            "content": "Second Link",
-            "url": "http://www.example.com/links/2"
-        },
-        {
-            "name": "Link 3",
-            "content": "Third Link",
-            "url": "http://www.example.com/links/3"
-        },
-        {
-            "name": "Link 4",
-            "content": "Fourth Link",
-            "url": "http://www.example.com/links/4"
-        },
-        {
-            "name": "Link 5",
-            "content": "Fifth Link",
-            "url": "http://www.example.com/links/5"
-        },
-        {
-            "name": "Link 6",
-            "content": "Sixth Link",
-            "url": "http://www.example.com/links/6"
-        },
-        {
-            "name": "Link 7",
-            "content": "Seventh Link",
-            "url": "http://www.example.com/links/7"
-        },
-        {
-            "name": "Link 8",
-            "content": "Eighth Link",
-            "url": "http://www.example.com/links/8"
+            "name": "My new updates page is live!",
+            "content": "Yes! I finally got the updates page working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
+            "url": "https://new.noobscience.rocks/updates",
+            "date": "2023-03-24 16:15",
+            "visits": 0
         }
     ]
 }
