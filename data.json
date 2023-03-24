@@ -15,6 +15,7 @@
     ],
     "links":[
         {
+            "id": "1",
             "name": "daily.dev gets 11million seed funding",
             "content": "Yes! daily.dev, the open source developer news aggregator got 11 million in funding! daily.dev is going to be able to grow even more! congrats to them!",
             "url": "https://daily.dev/blog/seed-round",
@@ -22,6 +23,7 @@
             "visits": 0
         },
         {
+            "id": "2",
             "name": "My new updates page is live!",
             "content": "Yes! I finally got the updates page working! I'm so happy! This is my own personal website, so I can do whatever I want with it. I'm going to be adding a lot more content to it, so stay tuned!",
             "url": "https://new.noobscience.rocks/updates",
