@@ -19,10 +19,10 @@
       "date": "2023-03-24 17:24"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Also made a updater script",
-      "content": "Enter the content of the update: Editing the content everything was a pain in the json file, so I just made a handy little python script to handle the tasks for me. It also has password protection so it is extra secure. Not really necessary, but really fun regardless.",
-      "date": "2023-03-24 17:43"
+      "content": "Editing the content everything was a pain in the json file, so I just made a handy little python script to handle the tasks for me. The script just asks me prompts and when I fill them, it also auto commits and voila, the link appears on my website. I am really proud of this system.",
+      "date": "2023-03-24 17:46"
     }
   ],
   "links": [
