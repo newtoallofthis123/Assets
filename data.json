@@ -85,6 +85,10 @@
     {
       "url": "https://youtube.com",
       "slug": "yt"
+    },
+    {
+      "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO24ABPh",
+      "slug": "spotify-test"
     }
   ]
 }
