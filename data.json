@@ -29,6 +29,12 @@
       "name": "Markdown in updates",
       "content": "Yes! I finally have markdown in the updates. I use a library called [marked.js](https://marked.js.org). It parsed markdown.\nand converts it into HTML. So, now, with the power of markdown I can use links and also embed images all in a json file..\nSo at this point, is it really a json file or a full on database?",
       "date": "2023-03-24 22:21"
+    },
+    {
+      "id": "6",
+      "name": "Fonts are a pain",
+      "content": "Okay, I am really torn about this and I have no idea what to do. I love a well designed blog and I want to give options to people who vist my site..\nI want them to be able to choose what type of theme they are in and what font they are using, but it is just so hard. I really have no idea what to do. Anytime I get one font working on nextJS, some other thing breaks. **help me**.",
+      "date": "2023-03-25 12:55"
     }
   ],
   "links": [
