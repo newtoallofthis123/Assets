@@ -41,6 +41,12 @@
       "name": "No More CSS",
       "content": "Yes! You heard that right. I finally replaced my huge css code base powering this site to scss..\nIt was quite hard, but I was finally able to do it..\nI am very proud right now. Want to know what is [scss](https://blog.logrocket.com/the-definitive-guide-to-scss/)?.\nWell, it is a css preprocessor that uses inheritance in classes. This makes it so much more easier and cleaner to manage large css code bases.\nWhy can't I just use tailwind? I want to build stuff on my own.",
       "date": "2023-03-25 22:31"
+    },
+    {
+      "id": "8",
+      "name": "Spotify Premium Student",
+      "content": "Yes! You heard that right. The guy who just wrote an article on [subscriptions](/blog/posts/2023/the-age-of-ai-subscriptions).\ntook a subscription to spotify premium. Trying out spotify premium has been on my bucket list for a while now. And yes, I finally did take it. Will I regert it? I don't know!",
+      "date": "2023-03-26 13:30"
     }
   ],
   "links": [
